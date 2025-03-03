@@ -8,4 +8,4 @@ to run this project:
 
 2) import the dataset (there are three images).
 
-3) run that code.
+3) run the code.
